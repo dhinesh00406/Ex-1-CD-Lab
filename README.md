@@ -73,7 +73,9 @@ int main() {
 }
 ```
 # OUTPUT
+
 ![image](https://github.com/user-attachments/assets/d817af0b-9e90-4aa4-8b13-b465f0c335c5)
+
 ![image](https://github.com/user-attachments/assets/c7a2ea4d-af83-4ebd-a75d-1ada6ee5ba17)
 
 # RESULT
