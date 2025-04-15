@@ -15,6 +15,7 @@
 # PROGRAM
 ```
 #include <stdio.h>
+#include <stdio.h>
 #include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
@@ -63,6 +64,7 @@ int main() {
         if (srch == d[i]) {
             printf("Symbol Found\n");
             flag = 1;
+            printf("Address : %lld",&d[i]);
             break;
         }
     }
@@ -74,9 +76,10 @@ int main() {
 ```
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/d817af0b-9e90-4aa4-8b13-b465f0c335c5)
+![Screenshot 2025-04-15 133326](https://github.com/user-attachments/assets/2e3e7865-8977-469d-8f4d-78d81acc711f)
 
-![image](https://github.com/user-attachments/assets/c7a2ea4d-af83-4ebd-a75d-1ada6ee5ba17)
+![Screenshot 2025-04-15 133422](https://github.com/user-attachments/assets/29df7ac3-a667-4365-8e14-cad1066109f1)
+
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
