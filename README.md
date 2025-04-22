@@ -76,10 +76,9 @@ int main() {
 ```
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/c9adce8d-6878-422e-8831-2ea75eab0279)
+![Screenshot 2025-04-22 131820](https://github.com/user-attachments/assets/c0d0c643-e04f-4211-bc9b-d41141352009)
 
-
-![image](https://github.com/user-attachments/assets/17852026-6c68-4f10-a328-409991ffbcca)
+![Screenshot 2025-04-22 132102](https://github.com/user-attachments/assets/83539085-1b4b-4a4b-b9cc-e43ab1184771)
 
 
 
